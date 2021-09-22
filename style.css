@@ -4,5 +4,21 @@
     box-sizing: border-box;
 }
 
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
 
+nav, .hero-section{
+    background-color: #1f2937;
+    color: #f9faf8;
+}
 
+li{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    color: #f9faf8;
+}
