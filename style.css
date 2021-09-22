@@ -49,3 +49,46 @@ a:hover{
     color: #E5E7EB;
 }
 
+.hero-section{
+    padding: 75px;
+}
+
+.hero-info{
+    width: 60%;
+}
+
+.hero-header{
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.hero-text{
+    margin-bottom: 10px;
+}
+
+button{
+    background: #3882F6;
+    border: none;
+    border-radius: 6px;
+    padding: 0.5rem 1.5rem;
+    margin: 0;
+    color: #f9faf8;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+
+button:hover {
+    background: #0053ba;
+}
+
+.hero-img{
+    background-color: grey;
+    width: 50%;
+    margin-left: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+}
