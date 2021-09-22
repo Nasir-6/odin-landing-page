@@ -27,7 +27,7 @@ a{
 nav{
     justify-content: space-between;
     align-items: center;
-    padding: 10px 5%;
+    padding: 16px 5%;
 }
 
 .nav-links{
@@ -50,11 +50,12 @@ a:hover{
 }
 
 .hero-section{
-    padding: 75px;
+    padding: 75px 20%;
+    justify-content: center;
 }
 
 .hero-info{
-    width: 60%;
+    width: 50%;
 }
 
 .hero-header{
@@ -128,7 +129,7 @@ button:hover {
 }
 .quote-section{
     background-color: #E5E7EB;
-    padding: 75px 130px;
+    padding: 150px 20%;
     display: flex;
     flex-direction: column;
 }
@@ -148,7 +149,7 @@ button:hover {
 
 .cta-section{
     background: #3882F6;
-    margin: 75px 10%;
+    margin: 75px 20%;
     border-radius: 5px;
     padding: 25px 75px;
     display: flex;
